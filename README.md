@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/tothimai196xx-lgtm/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/tothimai196xx-lgtm/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+
 # Friday 27 November 2026: 48 stories, 3 drawn scenes, map, UTC timeline and a date check
 
 One image that sums up the world's news of Friday 27 November 2026.
@@ -20,3 +24,5 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts   # writes out/entry.png
 NYT, BBC, Reuters, Guardian, The Times of India, India Today, Al Jazeera, ONS, EU, FCC, S&P, Goldman Sachs, and others — listed in the image footer. The Russian casualty figure (1,645,899) is a Ukrainian General Staff claim, marked as such in the image.
 
 Built for the make.fun bounty `news-image-20261127` (pot $100, top 50 share the prize).
+
+Built for the [make.fun bounty news-image-20261127](https://make.fun/bounty/news-image-20261127) — referral code `wxz47nrz`.
